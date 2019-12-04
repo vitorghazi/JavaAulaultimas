@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: Thistle  ;
+	
+}
+h1{
+	font-family: 'Racing Sans One', cursive;
+	color: red ;
+	text-decoration: underline overline;
+}
+h1:hover{
+	font-weight: lighter;
+	color: green;
+}
+
+th{
+	font-family: 'Racing Sans One', cursive;
+	color: red;
+	
+}
+
+th:hover{
+	font-weight: bold;
+	color: green;
+}
+
+td{
+	font-family: 'Racing Sans One', cursive;
+	color: red;
+	text-decoration: underline;
+}
+
+td:hover{
+	font-weight: bold;
+	color: red;
+}
